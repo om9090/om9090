@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm Om Jawahar Deshmukh</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om9090" alt="om9090" /></a> </p>
