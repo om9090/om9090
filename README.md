@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omdesh2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16I6A8lIX1uScFOWgr-RLR-SuFrN8aSAa/view?usp=drive_link](https://drive.google.com/file/d/16I6A8lIX1uScFOWgr-RLR-SuFrN8aSAa/view?usp=drive_link)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/om-deshmukh-74b061259/)
 
 - ⚡ Fun fact **I also have a Youtube Channel.**
 
