@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **various projects at ToucMedia Ads**
 
-- 🌱 I’m currently learning **MERN stack,AWS,etc**
+- 🌱 I’m currently learning **MERN stack**
 
 - 🤝 I’m looking for help with **starting my backend journey.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/om-deshmukh-74b061259/](https://www.linkedin.com/in/om-deshmukh-74b061259/)
 
 - 💬 Ask me about **react,javascript and AWS.**
 
